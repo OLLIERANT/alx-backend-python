@@ -5,6 +5,7 @@ Write type-annotated function floor with float argument
 Returns floor of the float
 """
 
+
 def floor(n: float) -> int:
     """
     Type-annotated function
